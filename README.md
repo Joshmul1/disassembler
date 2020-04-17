@@ -1,5 +1,5 @@
 # Disassembler
- This is a disassembler created for a university project written in C. It takes in a file containing machine language and will convert it into its assembly language equivelant.
+This is a disassembler created for a university project written in C. It takes in a file containing machine language and will convert it into its assembly language equivelant.
 ## Characteristics of machine
 * Two’s	complement binary representation
 * Stored	program concept with fixed word	length	
