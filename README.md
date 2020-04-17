@@ -34,7 +34,7 @@ This is a disassembler created for a university project written in C. It takes i
 Ensure [GCC](https://gcc.gnu.org/install/) is installed.
 On the command line type:
 
-      dissasembler.c 
+      gcc dissasembler.c 
     
 ### Run
 To run type one of these commands:
