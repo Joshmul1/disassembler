@@ -43,4 +43,4 @@ To run type one of these commands:
 
 ``` ./a.out -c ``` to allow manual imput of machine code.
 
-``` ./a.out -d ``` to run a file in same directory as this program named 'TestFile.txt'.
+``` ./a.out -f ``` to run a file in same directory as this program named 'TestFile.txt'.
